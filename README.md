@@ -1,5 +1,6 @@
 # Terraform 101
-## A Slalom Terraform Lab - created by Chris Spitzenberger
+## A Slalom Terraform Lab 
+- created by Chris Spitzenberger
 
 ### Navigation
 * [Part 1 - Executing "raw" Terraform](/Part-1)
