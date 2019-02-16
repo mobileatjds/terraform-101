@@ -1,0 +1,24 @@
+# Part 1 Files
+Part-1/aws/.terraform
+Part-1/aws/terraform.tfstate
+Part-1/aws/terraform.tfstate.backup
+
+# Part 2 Files
+Part-2/aws/.terraform
+Part-2/aws/terraform.tfstate
+Part-2/aws/terraform.tfstate.backup
+
+# MacOS-specific
+.DS_Store
+
+
+# Terraform standard gitignore
+#  Local .terraform directories
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# .tfvars files
+*.tfvars
