@@ -11,6 +11,9 @@ Part-2/aws/terraform.tfstate.backup
 # MacOS-specific
 .DS_Store
 
+# General 
+*.pptx
+
 
 # Terraform standard gitignore
 #  Local .terraform directories
