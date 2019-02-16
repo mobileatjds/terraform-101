@@ -2,11 +2,6 @@ variable "region" {
     description = "The AWS region to create resources in."
 }
 
-variable "profile" {
-    description = "AWS credentials profile you want to use"  
-}
-
-
 variable "vpc_cidr_range" {
     description = "The CIDR range of the VPC."
 }
